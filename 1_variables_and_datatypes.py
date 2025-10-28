@@ -30,12 +30,12 @@ name = "John"
 print("Name:", name)
 
 # # 2. Numbers: Numeric data (integers or floats)
-# age = 23
-# print("Age:", age)
+age = 23
+print("Age:", age)
 
 # # 3. Booleans: True or False values
-# hungry = False
-# print("Hungry:", hungry)
+hungry = False
+print("Hungry:", hungry)
 
 
 # # Example combining them all:
