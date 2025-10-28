@@ -60,7 +60,7 @@ print("Hungry:", hungry)
 # # Example (INVALID): for = "test" ❌ (since 'for' is a Python keyword)
 # # Example (VALID):
 # loop_word = "test"
-
+#class, def, return
 # print("Variable naming rules followed successfully!\n")
 # # ----------------------------------------
 
