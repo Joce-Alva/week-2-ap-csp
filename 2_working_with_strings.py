@@ -56,7 +56,11 @@ print(chicago_mayor[-1])
 # # Indexing: Access characters by position (0-based index)
 print("First character:", phrase[0])  # Output: P
 print("Last character:", phrase[-1])  # Output: !
-
+phrase3 = 'Supercagifragilistic'
+#uppercase it
+print("Uppercase:", phrase3.upper())
+#slice super 
+print(phrase3[0:5])
 # # Slicing: Get a range of characters (start inclusive, end exclusive)
 # print("Characters 1 to 4:", phrase[1:4])  # Output: yth
 
