@@ -22,11 +22,14 @@ print("Concatenated String:", message)  # Output: Hello World
 phrase = "Python is FUN!"
 
 # # Convert all characters to lowercase
-# print("Lowercase:", phrase.lower())  # Output: python is fun!
+print("Lowercase:", phrase.lower())  # Output: python is fun!
 
-# # Convert all characters to uppercase
-# print("Uppercase:", phrase.upper())  # Output: PYTHON IS FUN!
+# Convert all characters to uppercase
+print("Uppercase:", phrase.upper())  # Output: PYTHON IS FUN!
 
+name= "Jocelyn" #uppercase 
+print("Uppercase:", name.upper())
+print("Lowercase:", name.lower())
 # # Check if all characters are uppercase
 # print("Is Uppercase?", phrase.isupper())  # Output: False
 
